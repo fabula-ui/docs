@@ -1,3 +1,3 @@
-# website
+# Docs
 
 Fabula UI
