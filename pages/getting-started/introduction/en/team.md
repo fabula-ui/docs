@@ -1,0 +1,3 @@
+# Who makes Fabula
+
+Fabula is currently maintained with 💙 by <a href="https://www.twitter.com/elpoteta" target="_blank">Bruno Poeta</a>. If you like Fabula and want to help me making it awesome, send me a message right now on <a href="https://www.twitter.com/elpoteta" target="_blank">Twitter</a> or to my <a href="mailto:fabulabruno@gmail.com" target="_blank">email</a>. I'd love to hear more from you!
