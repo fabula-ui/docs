@@ -1,0 +1,3 @@
+# Requesting features
+
+Fabula is still very new, but we think it can greatly improve going forward. If you think there's a certain component that is missing or maybe an utility property that you use a lot and you can't find it on Fabula, you can go to our <a href="https://www.github.com/fabula-ui" target="_blank">github</a> and learn how to request a new feature from there. If it seems like a good addition to Fabula, then it will be moved to our roadmap - that will soon be public 🤙.
