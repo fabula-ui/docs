@@ -1,3 +1,3 @@
 # Inactive color
 
-The **inactive color** property changes the color of the component, when inactive.
+The **inactive color** property changes the color of the inactive child components.
