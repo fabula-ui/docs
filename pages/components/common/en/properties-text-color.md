@@ -1,3 +1,3 @@
-# Color
+# Text color
 
-The **color** property changes the text color of the component.
+The **text color** property changes the text color of the component.
