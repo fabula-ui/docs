@@ -1,6 +1,6 @@
 # Size
 
-The **size** property changes the size of the component, based on the global variable **globals.sizeMultipliers**.
+The **size** property changes the size of the component, based on the [global variable](/docs/variables/globals) **globals.sizeMultipliers**.
 
 The default **size multipliers** are `xs`, `sm`, `md`, `lg`, `xl` and `xxl`.
 
