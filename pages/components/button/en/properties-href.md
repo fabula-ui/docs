@@ -1,3 +1,3 @@
 # Href
 
-The **href** adds a link to the component.
+The **href** property adds a link to the component.

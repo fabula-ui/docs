@@ -1,3 +1,3 @@
 # Customizing
 
-Fabula lets you easily customize all of its components, using **global variables**, **color variables** and **component variables**.
+Fabula lets you easily customize all of its components, using [global variables](/docs/variables/globals), [color variables](/docs/variables/colors) and **component variables**.
