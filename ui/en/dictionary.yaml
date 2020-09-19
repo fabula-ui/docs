@@ -182,7 +182,7 @@ description-variable-title-font-weight: "The font weight of the component's titl
 description-variable-wide-multiplier: "The padding multiplier related to the wide property"
 example: "Example"
 experimental: "Experimental"
-experimental-alert-text: "This feature is in early stages of development and it is considered experimental. It is not advised to be used in production right now."
+experimental-alert-text: "This feature is in early stages of development and it is considered experimental. Its code structure might change in future versions."
 experimental-alert-title: "Experimental Feature"
 getting-started: "Getting Started"
 go-to-top: "Go to top"
