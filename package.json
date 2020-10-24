@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabula-ui/docs.git"
+    "url": "https://github.com/fabula-ui/docs.git"
   },
   "author": "Bruno Poeta <brunovieirapoeta@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fabula-ui/docs/issues"
   },
-  "homepage": "https://github.com/fabula-ui/docs#readme"
+  "homepage": "https://github.com/fabula-ui/docs#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
