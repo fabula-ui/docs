@@ -1,14 +1,10 @@
 {
-  "name": "@fabula/docs",
+  "name": "@fabula-ui/docs",
   "version": "0.0.1",
   "description": "Fabula's docs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fabula-ui/docs.git"
   },
   "author": "Bruno Poeta <brunovieirapoeta@gmail.com>",
   "license": "MIT",
@@ -16,7 +12,12 @@
     "url": "https://github.com/fabula-ui/docs/issues"
   },
   "homepage": "https://github.com/fabula-ui/docs#readme",
+  "private": false,
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabula-ui/docs.git"
   }
 }
