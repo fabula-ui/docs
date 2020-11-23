@@ -12,6 +12,7 @@ description-alignment-dropdown: "Changes the alignment of the dropdown menu rela
 description-alignment-h: "Changes the horizontal alignment of the component's content"
 description-alignment-navbar-section: "Changes horizontal alignment of the component's children"
 description-alignment-v: "Changes the vertical alignment of the component's content"
+description-arrow-dropdown-toggle: "Adds or remove arrow from the component"
 description-aux: "Makes the component act as an auxiliary text, applying a color to it"
 description-border: "Adds a border to the component, based on the color property"
 description-border-color-segment: "Changes border color of the active child component"
