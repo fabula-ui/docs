@@ -1,3 +1,3 @@
-# Open
+# Show
 
-The **open** event is called whenever the component is shown.
+The **show** event is called whenever the component is shown.
