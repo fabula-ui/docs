@@ -23,6 +23,7 @@ description-clear: "Removes the background and applies the color only to the tex
 description-click-to-close-dropdown-item: "Closes the dropdown when clicking the component"
 description-click-to-close-dropdown-menu: "Closes the dropdown when clicking one of the component children"
 description-close-button: "Adds a close button to the component"
+description-col: "Changes the width of the component"
 description-color: "Adds color to the component"
 description-column: "Makes the element act as a grid column"
 description-compact: "Makes the component compact by reducing horizontal padding"
