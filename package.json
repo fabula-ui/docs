@@ -14,8 +14,7 @@
   "homepage": "https://github.com/fabula-ui/docs#readme",
   "private": false,
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
