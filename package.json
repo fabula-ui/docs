@@ -1,6 +1,6 @@
 {
-  "name": "@fabula-ui/docs",
-  "version": "0.0.2",
+  "name": "@fabula/docs",
+  "version": "0.0.3",
   "description": "Fabula's docs",
   "main": "index.js",
   "scripts": {
