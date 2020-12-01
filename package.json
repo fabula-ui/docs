@@ -1,5 +1,5 @@
 {
-  "name": "@fabula/docs",
+  "name": "@fabula-ui/docs",
   "version": "0.0.2",
   "description": "Fabula's docs",
   "main": "index.js",
