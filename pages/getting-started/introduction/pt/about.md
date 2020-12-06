@@ -1,3 +1,8 @@
 # Sobre o Fabula
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit mauris lorem, id hendrerit augue ullamcorper vestibulum. Proin eu justo arcu. Maecenas in mi ante. In euismod ac felis eu dapibus. Praesent non magna sem. Vivamus euismod ut urna non suscipit. Vivamus nec lobortis arcu, non lobortis arcu.
+Fabula é um ecossistema de components open-source criado para ajudar desenvolvedores ao redor do mundo a criar belas aplicações. Seu foco é tornar fácil customizar tudo dentro dele, desde componentes até às variáveis e cores.
+
+Atualmente está em versão beta para **React** e **Angular**, o que significa que você pode dar de cara com alguns bugs enquanto trabalha com ele.
+
+Você pode ajudar o Fabula a crescer forte e estável [reportando bugs](/docs/getting-started/contributing/#reporting-bugs),
+[solicitando recursos](/docs/getting-started/contributing/#requesting-features) or até [melhorando essa documentação](/docs/getting-started/contributing/#improving-docs). O Fabula é seu também!

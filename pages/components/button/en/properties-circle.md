@@ -1,3 +1,3 @@
 # Circle
 
-The **circle** property makes turns the component into a circle.
+The **circle** property turns the component into a circle.

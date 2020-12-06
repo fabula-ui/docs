@@ -1,3 +1,3 @@
 # Quem faz o Fabula
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit mauris lorem, id hendrerit augue ullamcorper vestibulum. Proin eu justo arcu. Maecenas in mi ante. In euismod ac felis eu dapibus. Praesent non magna sem. Vivamus euismod ut urna non suscipit. Vivamus nec lobortis arcu, non lobortis arcu.
+Fabula é atualmente mantido com 💙 por <a href="https://www.twitter.com/elpoteta" target="_blank">Bruno Poeta</a>. Se você gosta do Fabula e quer me ajudar a torná-lo incrível, me envie uma mensagem agora mesmo no <a href="https://www.twitter.com/fabula-ui" target="_blank">Twitter</a> ou mande um <a href="mailto:fabulaui@gmail.com" target="_blank">email</a>. Eu vou adorar ouvir mais sobre você!

@@ -1,3 +1,3 @@
 # Installing
 
-Installing Fabula is pretty straightforward. Just do a install for the specific framework you're using, as following:
+Installing Fabula is pretty straightforward. With terminal open, go to your project's folder and type the following:

@@ -1,0 +1,3 @@
+# Solicitando recursos
+
+Fabula ainda é muito novo, mas nós achamos que ele pode melhorar muito daqui pra frente. Se você acha que tem um certo componente faltando ou talvez um utilitário que você usa bastante e não encontra no Fabula, você pode ir até o nosso <a href="https://www.github.com/fabula-ui" target="_blank">github</a> e aprender como fazer para solicitar um novo recurso. Se parecer uma boa adição ao Fabula, o recurso então irá para nosso roadmap - que vai se tornar público em breve 🤙.
