@@ -6,6 +6,8 @@
 
 > Fabula is currently in a beta version. It is not advised to be used in production yet.
 
+---
+
 This is the repository that contains all of Fabula's documentation content. It also holds all of the documentation translation files.
 
 To view this readme in portuguese, [click here](https://github.com/fabula-ui/docs/blob/master/.github/docs/pt/README.md).
