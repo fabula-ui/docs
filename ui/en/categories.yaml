@@ -1,5 +1,7 @@
 - components: "Components"
 - getting-started: "Getting Started"
+- grid: "Grid"
+- helpers: "Helpers"
 - responsiveness: "Responsiveness"
 - utilities: "Utilities"
 - variables: "Variables"

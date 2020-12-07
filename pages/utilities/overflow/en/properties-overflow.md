@@ -1,3 +1,3 @@
 # Overflow
 
-The **overflow** property changes the way that the element's content is handled both **horizontally** and **vertically**.
+The **overflow** property changes the way that the component's content is handled both **horizontally** and **vertically**.

@@ -1,3 +1,3 @@
-# Descrição
+# Description
 
-O utilitário **display** altera o modo como o componente é visualizado ao alterar a propriedade css **display**.
+The **display** utility changes the way a component is displayed by changing its **display** css property.

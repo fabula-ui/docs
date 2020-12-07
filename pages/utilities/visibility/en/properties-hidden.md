@@ -1,3 +1,3 @@
 # Hidden
 
-The **hidden** property makes the element hidden by applying `display: none` to it.
+The **hidden** property makes the component hidden by applying `display: none` to it.
