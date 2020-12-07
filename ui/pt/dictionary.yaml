@@ -99,7 +99,7 @@ description-padding-y: "Adiciona um padding nas partes inferior e superior do co
 description-padding-component: "Adiciona padding ao componente"
 description-password-toggle: "Adiciona um botão ao componente que altera entre tipos text e password"
 description-placeholder: "Altera o texto do placeholder do componente"
-description-placement: "Altera a colocação do componente"
+description-placement: "Altera o posicionamento do componente"
 description-read-only: "Desativa o clique do componente sem alterar seu estilo"
 description-responsiveness-down: "Aplica um grupo de propriedades a um componente de um breakpoint para baixo"
 description-responsiveness-on: "Aplica um grupo de propriedade a um componente apenas em um breakpoint"

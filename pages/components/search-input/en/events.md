@@ -4,4 +4,4 @@ The **search input** component is an extension of the **input** component. View 
 
 It also has its own set of event listeners that can help you handle its actions.
 
-Learn more about these properties below.
+Learn more about these events below.

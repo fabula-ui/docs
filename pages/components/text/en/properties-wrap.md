@@ -1,3 +1,3 @@
 # Wrap
 
-The **wrap** property makes the text wrap.
+The **wrap** property makes the component wrap.

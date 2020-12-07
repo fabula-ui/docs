@@ -1,3 +1,3 @@
-# Description
+# Descrição
 
-The **list** component displays information organized visually as a list.
+O componente **list** mostra informação organizada visualmente como uma lista.

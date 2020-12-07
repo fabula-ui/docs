@@ -1,3 +1,3 @@
 # Close
 
-O evento **close** é chamado logo após a transição de fechamento é finalizada. Use-a em conjunto com o **close button**.
+The **close** event is triggered right after the closing transition finished. Use it in conjunction with **close button**.
