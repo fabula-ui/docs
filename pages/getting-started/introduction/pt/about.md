@@ -1,6 +1,6 @@
 # Sobre o Fabula
 
-Fabula é um ecossistema de components open-source criado para ajudar desenvolvedores ao redor do mundo a criar belas aplicações. Seu foco é tornar fácil customizar tudo dentro dele, desde componentes até às variáveis e cores.
+Fabula é um ecossistema UI open-source criado para ajudar desenvolvedores ao redor do mundo a criar belas aplicações. Seu foco é tornar fácil customizar tudo dentro dele, desde componentes até às variáveis e cores.
 
 Atualmente está em versão beta para **React** e **Angular**, o que significa que você pode dar de cara com alguns bugs enquanto trabalha com ele.
 

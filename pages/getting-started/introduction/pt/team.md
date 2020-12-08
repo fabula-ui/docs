@@ -1,3 +1,3 @@
 # Quem faz o Fabula
 
-Fabula é atualmente mantido com 💙 por <a href="https://www.twitter.com/elpoteta" target="_blank">Bruno Poeta</a>. Se você gosta do Fabula e quer me ajudar a torná-lo incrível, me envie uma mensagem agora mesmo no <a href="https://www.twitter.com/fabula-ui" target="_blank">Twitter</a> ou mande um <a href="mailto:fabulaui@gmail.com" target="_blank">email</a>. Eu vou adorar ouvir mais sobre você!
+Fabula é atualmente mantido com 💙 por <a href="https://www.twitter.com/elpoteta" target="_blank">Bruno Poeta</a>. Se você gosta do Fabula e quer me ajudar a torná-lo incrível, me envie uma mensagem agora mesmo no <a href="https://www.twitter.com/fabulaui" target="_blank">Twitter</a> ou mande um <a href="mailto:fabulaui@gmail.com" target="_blank">email</a>. Eu vou adorar ouvir mais sobre você!
