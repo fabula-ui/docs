@@ -1,3 +1,3 @@
-# Descrição
+# Description
 
-O utilitário **color** ajuda você a modificar a cor do componente.
+The **color** utility helps you to modify the color of the component.

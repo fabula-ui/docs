@@ -1,3 +1,3 @@
-# Descrição
+# Description
 
-O componente **toast** mostra programaticamente uma informação em uma parte selecionada da tela.
+The **toast** component programmatically displays information on a selected part of the screen.
