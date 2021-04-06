@@ -1,3 +1,3 @@
-# Descrição
+# Description
 
-O componente **heading** mostra um título ou subtítulo na página.
+The **heading** component shows a title or subtitle on the page.
